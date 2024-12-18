@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abrah\\OneDrive\\Asztali g\u00E9p\\git_bgszc\\Kalapacsvetes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2978E70-6993-40E9-888E-8F051DB03DF7}|Kalapacsvetes.csproj|c:\\users\\abrah\\onedrive\\asztali g\u00E9p\\git_bgszc\\kalapacsvetes\\\u00E1.m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2978E70-6993-40E9-888E-8F051DB03DF7}|Kalapacsvetes.csproj|solutionrelative:\u00E1.m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2978E70-6993-40E9-888E-8F051DB03DF7}|Kalapacsvetes.csproj|c:\\users\\abrah\\onedrive\\asztali g\u00E9p\\git_bgszc\\kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2978E70-6993-40E9-888E-8F051DB03DF7}|Kalapacsvetes.csproj|solutionrelative:sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sportolo.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Asztali g\u00E9p\\git_bgszc\\Kalapacsvetes\\Sportolo.cs",
+              "RelativeDocumentMoniker": "Sportolo.cs",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Asztali g\u00E9p\\git_bgszc\\Kalapacsvetes\\Sportolo.cs",
+              "RelativeToolTip": "Sportolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:12:32.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u00C1.M.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Asztali g\u00E9p\\git_bgszc\\Kalapacsvetes\\\u00C1.M.cs",
+              "RelativeDocumentMoniker": "\u00C1.M.cs",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Asztali g\u00E9p\\git_bgszc\\Kalapacsvetes\\\u00C1.M.cs",
+              "RelativeToolTip": "\u00C1.M.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:09:13.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

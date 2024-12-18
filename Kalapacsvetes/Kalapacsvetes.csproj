@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7CC5E7AB-5CEB-4947-8A24-B44DC380309E}</ProjectGuid>
+    <ProjectGuid>{C2978E70-6993-40E9-888E-8F051DB03DF7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Kalapacsvetes</RootNamespace>
     <AssemblyName>Kalapacsvetes</AssemblyName>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sportolo.cs" />
+    <Compile Include="Á.M.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

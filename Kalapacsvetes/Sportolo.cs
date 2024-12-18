@@ -3,19 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Kalapacsvetes
 {
     internal class Sportolo
     {
-        public Sportolo() 
+        public string Nev { get; set; }
+        public int Eletkor { get; set; }
+        public string SportAg { get; set; }
+        public double Eredmeny { get; set; }
+
+        public Sportolo(string nev, int eletkor, string sportAg, double eredmeny)
         {
-            int helyezes = 0;
-            double eredmeny = 0;
-            string nev = "";
-            int orszagKod = 0;
-            string helyszin = "";
-            int datum = 0;
+            Nev = nev;
+            Eletkor = eletkor;
+            SportAg = sportAg; 
+            Eredmeny = eredmeny;
         }
     }
 }
