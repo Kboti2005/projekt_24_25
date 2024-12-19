@@ -63,3 +63,11 @@ table, th, td {
     border:1px solid black;
     text-align: center;
 }
+div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
