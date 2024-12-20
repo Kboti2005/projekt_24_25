@@ -77,3 +77,26 @@ div.container {
 .h3{
     text-align: center;
 }
+.regist_szoveg{
+    color: rgb(19, 18, 16);
+  }
+  .regiszt_szoveg{
+    color: black;
+    background-color:rgb(235, 235, 227) ;
+    text-align: center;
+    margin: 400px;
+    margin-top: 150px;
+    height: 300px;
+    padding-top: 10px;
+    box-shadow: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 50px;
+  }
+  .doboz{
+    margin: 100px;
+  }
+  .label{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
