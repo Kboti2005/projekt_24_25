@@ -65,9 +65,15 @@ table, th, td {
 }
 div.container {
     text-align: center;
-  }
+}
   
   ul.myUL {
     display: inline-block;
     text-align: left;
-  }
+}
+.csucs{
+    text-align: center;
+}
+.h3{
+    text-align: center;
+}
